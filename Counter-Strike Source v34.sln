@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counter-Strike Source v34", "Counter-Strike Source v34\Counter-Strike Source v34.vcxproj", "{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Home|x86 = Home|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Debug|x86.ActiveCfg = Release|Win32
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Debug|x86.Build.0 = Release|Win32
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Home|x86.ActiveCfg = Release|Win32
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Home|x86.Build.0 = Release|Win32
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Release|x86.ActiveCfg = Release|Win32
+		{88AEB23A-33A7-40C2-ACFB-CC02763CEB2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4170F8B9-FD60-494F-A36F-463B1C98F779}
+	EndGlobalSection
+EndGlobal
